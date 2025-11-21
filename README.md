@@ -8,7 +8,7 @@ This project implements a power monitoring and control system using an Arduino-c
 
 The following diagram illustrates the wiring of the components.
 
-**File:** `B080EDB6-CB8E-4BE5-9B1D-683663ACD261_1_201_a.jpeg`
+![Circuit Diagram](B080EDB6-CB8E-4BE5-9B1D-683663ACD261_1_201_a.jpeg)
 
 *(This image shows the connection of an Arduino, an A4988 stepper motor driver, a stepper motor, a relay/sensor module, and other components.)*
 
@@ -37,7 +37,7 @@ The system uses a GSM module connected via SoftwareSerial to send alerts. Upon a
 
 The screenshot below shows the type of message received from the system.
 
-**File:** `output_sms.jpeg`
+![SMS Output](output_sms.jpeg)
 
 *(This image shows repeated "Power Braked" messages on a smartphone.)*
 
