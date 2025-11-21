@@ -11,7 +11,7 @@
 SoftwareSerial gsmSerial(7, 8); // RX, TX pins for GSM module
 
 // Define the phone number to send SMS notifications
-String phoneNumber = "+919360454833"; // Replace with your phone number
+String phoneNumber = "YOUR_PHONE_NUMBER"; // Replace with your phone number
 
 // Define pins for buttons
 #define BUTTON_SMS  9            // Button 1 - Reserved for SMS (future use)
