@@ -41,7 +41,7 @@ The main logic is in the `powermonitoring_2/powermonitoring_2.ino` file.
 
 1.  **Hardware:** Assemble the circuit as shown in the diagram below.
     
-    ![Circuit Diagram](ADB3778B-E2A9-4C5F-AB5D-65B18F385A71_1_201_a.jpeg)
+    ![Circuit Diagram](circuit_pms.jpeg)
 
 2.  **Software:**
     - Open the `powermonitoring_2/powermonitoring_2.ino` file in the Arduino IDE.
